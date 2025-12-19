@@ -18,3 +18,9 @@ const heros =["shaktiman" , "naagraj"]
    const myFunction = function(){
    console.log("HELLO WORLD");
    }
+
+   // +++++++++++++++++++++++++++++++++++++++
+
+   // stack(Primitive) , Heap (Non Primitive)
+
+   let myName = "Ayush"
